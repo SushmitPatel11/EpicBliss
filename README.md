@@ -49,7 +49,7 @@ Performance and SEO improvements
 
 👨‍💻 Author
 
-Developed by Sushmit Yadav as a real-world client project and portfolio piece.
+Developed by Sushmit Patel as a real-world client project and portfolio piece.
 
 📄 License
 
